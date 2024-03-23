@@ -1,0 +1,8 @@
+name: jekyll
+channels:
+  - conda-forge
+dependencies:
+  - make=4.2.1
+  - gxx_linux-64
+  - rb-jekyll=4.0.0
+  - rb-kramdown=2.1.0
