@@ -28,7 +28,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Build settings
 # theme: minima
 #theme: jekyll-theme-hydejack
-remote_theme: theme: jekyll-theme-hydejack
+remote_theme: hydecorp/hydejack@v9
 plugins:
   - jekyll-feed
 
