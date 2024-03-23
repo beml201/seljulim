@@ -33,9 +33,11 @@ Exeter's not a huge place, so anything close enough to the train stations (Centr
 
 # Do I have to get you something?
 No, but if you feel you *absolutely have to* get us something, we're putting together a list to make this easier for people.
+The list so far (If you message us that you're getting it, we'll strike it through):
+- Wine glasses
 
 # Wedding updates:
 Here's a list of our previous updates on the wedding.
 {% for post in site.categories.wedding %}
-<a href="{{post.url}}">{{ post.title }}</a> 
+<a href="{{ post.url | remove_first:'/'}}">{{ post.title }}</a> 
 {% endfor %}
