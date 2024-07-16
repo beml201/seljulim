@@ -22,19 +22,32 @@ Exeter Plan:
 Malaysia plan:
 - TBD
 
-# Can I come?
-Of course! If you can find this website, you can come.
-I (Brandon) am extremely bad at getting things out to people, and keeping on top of things like messages, so invites may (read *will*) be pretty slow to come out!
-If you'd like to come, please do, we'd love to have you here with us!
-
 # Where can I stay?
 We're looking at different AirBnB options right now, but otherwise Exeter has a number of hotels or BnBs that should work.
 Exeter's not a huge place, so anything close enough to the train stations (Central, St Davids, St Thomas) will be pretty walkable to all our wedding stop-offs.
 
 # Do I have to get you something?
 No, but if you feel you *absolutely have to* get us something, we're putting together a list to make this easier for people.
-The list so far (If you message us that you're getting it, we'll strike it through):
-- Wine glasses
+The list so far is available through this link:  
+[https://www.johnlewis.com/wish-list/TTTNFVK](https://www.johnlewis.com/wish-list/TTTNFVK)  
+If you pick something from the list, we'll remove it!
+
+Other vendors we like if you want to shop small (in Exeter):
+- Maker Maker, Magdalen Road
+- Helen of Troy, Fore Street
+- Maker Mart, Gandy Street
+- Smith's Wines, Magdalen Road
+- Tappermade, [Magical internet land](https://tappermade.com/)
+- Crankhouse Coffee, Fore Street
+- Or go rogue and stray from the list, we also like surprises!
+
+If you want to buy us coffee stuff, we already have a lot of equipment, please check with us first (Mia wants another set of espresso cups).
+
+# What should I wear?
+The ceremony is on grass so avoid skinny heels. Don't feel obliged to wear a three-piece suit if it's 30 degrees, we want everybody to be comfortable. Think beach-formal!
+
+# Should I eat lunch?
+Yes! Please eat beforehand, we recommend a small lunch or big brunch as food servicee will be an early dinner!
 
 # Wedding updates:
 Here's a list of our previous updates on the wedding.
