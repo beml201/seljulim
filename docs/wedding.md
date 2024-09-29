@@ -6,6 +6,10 @@ layout: about
 title: Get info about our wedding here!
 ---
 
+# Wedding Images
+Images of our wedding [here](https://photos.app.goo.gl/6fHoa41o5M6bXqG1A)!
+
+
 ![Wedding-Info](/assets/img/invite.jpg)
 
 # When
